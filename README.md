@@ -1,7 +1,5 @@
 # SkilHarvest_Stationary_Supplies
 
-# SkillHarvest-Data-Documentation
-
 
 **Documentation Outline**
 - [Project Overview](#project-overview)
@@ -21,7 +19,7 @@ Sales Data:
 - Sales rep details like names and region.
 
 ## Tools Used
-- Google Sheet for Querying and Analysis [Download Here](https.google.com)
+- Google Sheet for Querying and Analysis [Visit Here]([https.google.com](https://docs.google.com/spreadsheets/u/0/))
 
 ## Data Cleaning and Preparation
 Exploratory Data Analysis involves exploring the data to answer some questions such as;
